@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <declare-styleable name="RoundedButton">
+        <attr name="rb_strokeColor" format="color" />
+        <attr name="rb_strokeWidth" format="dimension" />
+        <attr name="rb_backgroundColor" format="color" />
+        <attr name="rb_cornerRadius" format="dimension" />
+    </declare-styleable>
+</resources>
