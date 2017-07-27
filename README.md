@@ -36,6 +36,13 @@ Usage
     app:rb_strokeColor="#000"/>
 ```
 
+Attributes to choose from:
+
+* `rb_backgroundColor` - Background Color, default GRAY
+* `rb_cornerRadius` - Size of the rounded corner, default 4dp
+* `rb_strokeWidth` - Size of the stroke, default 1dp
+* `rb_strokeColor` - Color of the stroke, default BLACK
+
 Changelog
 ---------
 * **1.0.0**
